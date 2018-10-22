@@ -1,2 +1,2 @@
 # numpy-random
-An investigation into the bumpy random package
+An investigation into the numpy random package
